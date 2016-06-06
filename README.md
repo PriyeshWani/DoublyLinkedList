@@ -1,5 +1,5 @@
 
-# Command To run the Linked list:
+# Command To run the Doubly Linked list:
 
 ```
 java -jar DoublyLinkedList.jar
